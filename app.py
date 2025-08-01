@@ -1,9 +1,7 @@
 import numpy as np 
 import pandas as pd
-import xgboost as xgb
 from sklearn.metrics import mean_squared_error,r2_score
 import joblib
-from sklearn.neighbors import KNeighborsRegressor
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 import streamlit as st

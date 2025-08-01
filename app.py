@@ -1,6 +1,5 @@
 import numpy as np 
 import pandas as pd
-from sklearn.metrics import mean_squared_error,r2_score
 import joblib
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi

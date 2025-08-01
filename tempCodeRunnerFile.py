@@ -1,0 +1,1 @@
+uri = "mongodb+srv://akash:akash@cluster0.44hv4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
